@@ -1,3 +1,4 @@
+print("Enter number!")
 A = int(input ("A: "))
 
 if A % 2 == 0:
