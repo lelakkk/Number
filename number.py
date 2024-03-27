@@ -7,4 +7,6 @@ elif A % 2 == 1:
      print (f"A is odd number")
 else:
     print("Please enter a digit")
+
+print("Bye bye")
      
